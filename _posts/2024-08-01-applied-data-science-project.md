@@ -19,7 +19,9 @@ We have done
 https://www.kaggle.com/datasets/teyang/singapore-hdb-flat-resale-prices-19902020
 
 Explore Dataset
+
 ![6 table](https://github.com/user-attachments/assets/c65f5399-5139-498a-a2f2-fef5dc2fa0c9)
+
 
 ![5 table](https://github.com/user-attachments/assets/e3269c7a-f54a-42f6-a236-907baa85a442)
 
