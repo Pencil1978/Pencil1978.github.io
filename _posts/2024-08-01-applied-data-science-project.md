@@ -15,9 +15,10 @@ The project business goal;
 
 ## Work Accomplished
 We have done
-1. Dataset![6 table](https://github.com/user-attachments/assets/6180e9b4-0662-45bb-bb66-e4107ecb6c5c)
-
+1. Dataset!
 https://www.kaggle.com/datasets/teyang/singapore-hdb-flat-resale-prices-19902020
+
+[6 table](https://github.com/user-attachments/assets/6180e9b4-0662-45bb-bb66-e4107ecb6c5c)
 
 2. Transform 
 
