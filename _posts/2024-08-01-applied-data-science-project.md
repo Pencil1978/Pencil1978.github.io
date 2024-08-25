@@ -15,13 +15,17 @@ The project business goal;
 
 ## Work Accomplished
 We have done
-1. Dataset - from Haggle 
+1. Dataset![6 table](https://github.com/user-attachments/assets/6180e9b4-0662-45bb-bb66-e4107ecb6c5c)
+
+https://www.kaggle.com/datasets/teyang/singapore-hdb-flat-resale-prices-19902020
+
 2. Transform 
+
 3. Prepare
 4. Train the model
 5. Evaluate
 
-6. 
+7. 
 
 ### Data Preparation
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum. In arcu magna, aliquet vel pretium et, molestie et arcu. Mauris lobortis nulla et felis ullamcorper bibendum. Phasellus et hendrerit mauris. Proin eget nibh a massa vestibulum pretium. Suspendisse eu nisl a ante aliquet bibendum quis a nunc. Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum eget, ultricies eu enim. Praesent nulla tortor, malesuada adipiscing adipiscing sollicitudin, adipiscing eget est.
