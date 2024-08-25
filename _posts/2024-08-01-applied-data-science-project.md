@@ -5,7 +5,7 @@ title: "Applied Data Science Project Documentation"
 categories: ITD214
 ---
 ## Project Background
-Provide an overview of your team's project business goals and objectives and state the objective that you are working on. 
+Our team wants to Provide an overview of your team's project business goals and objectives and state the objective that you are working on. 
 
 The project was to predict the HDB prices violatility for the next 30 years. 
 
