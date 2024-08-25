@@ -18,7 +18,7 @@ We have done
 1. Dataset!
 https://www.kaggle.com/datasets/teyang/singapore-hdb-flat-resale-prices-19902020
 
-[6 table](https://github.com/user-attachments/assets/6180e9b4-0662-45bb-bb66-e4107ecb6c5c)
+![6 table](https://github.com/user-attachments/assets/c65f5399-5139-498a-a2f2-fef5dc2fa0c9)
 
 2. Transform 
 
