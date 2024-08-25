@@ -11,28 +11,20 @@ The project business goal;
 1. Able to predict the HDB prices violatility for the next 30 years
 2. Classify into 3 price ranges from low, medium, high
 3. Create recommendation system to suggest HDB flats based on user requirement
-4. Classify buyer review in their housing experience. 
+4. Classify buyer review in their housing experience. (My task)
 
 ## Work Accomplished
-We have done
-1. Dataset!
-https://www.kaggle.com/datasets/teyang/singapore-hdb-flat-resale-prices-19902020
+1. We choose the following Dataset!
 
 Explore Dataset
 
-![6 table](https://github.com/user-attachments/assets/c65f5399-5139-498a-a2f2-fef5dc2fa0c9)
+2. Transform:  
+We did cleaning up to the data using Split, Remove Null Value, Data Check, Create Address, 
+
+3. Prepare: We add in more feature 
+Extracting Lat and Ion, Extract MRT Lat and ION, calculate distance to nearest MRT, combine new dataset, slice data 2017 - 2020
 
 
-![5 table](https://github.com/user-attachments/assets/e3269c7a-f54a-42f6-a236-907baa85a442)
-
-2. Transform 
-
-Split
-Remove Null Value
-Data Check
-
-
-3. Prepare
 4. Train the model
 5. Evaluate
 
